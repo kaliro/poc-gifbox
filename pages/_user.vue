@@ -7,18 +7,19 @@
         </v-card-title>
         <v-card-text>
           <p>{{currentUser.message}}</p>
+          <p>{{currentUser.message2}}</p>
           <div class="text-xs-right">
             <em><small>&mdash; {{currentUser.from}}</small></em>
           </div>
           <hr class="my-3">
           <br>
         </v-card-text>
-        <v-card-actions>
+        <v-card-actions v-if="currentUser.text.length > 0">
           <v-spacer />
           <v-btn
             color="primary"
             nuxt
-            to="/inspire"
+            :to="theLinkTo"
           >
             Reclamar
           </v-btn>
@@ -35,15 +36,13 @@ import rawData from 'assets/data.json'
 export default {
   data() {
     return {
-      currentUserName: "catalina2santos",
-      // allStory: rawStory.Stories,
-      // slideTime: rawStory.TimeSlider,
-      // showSpot: rawStory.ShowSpot,
+      currentUserName: this.$route.params.user,
+      theLinkTo: '/second/'+ this.$route.params.user
     }
   },
   computed: {
     currentUser() {
-      return rawData.find(x=> x.user==="catalina2santos")
+      return rawData.find(x=> x.user===this.currentUserName)
     },
   }
 }

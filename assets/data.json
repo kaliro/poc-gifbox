@@ -2,57 +2,60 @@
     {
         "name": "Fabiana Catalina Dos Santos",
         "user":"catalina2santos",
-        "message":"Gracias por compartir tu alegria y sabiduria, siempre tendras un lugar en mi corazon.",
-        "from": "The Grinch",
-        "configuration":[]
+        "message":"Gracias por compartir tu alegría y sabiduría, siempre tendrás un lugar en mi corazón, estos bolígrafos son alusivos a Frank Lloyd Wright uno de los arquitectos más famosos ya que cambio nuestra forma de vivir, así como tú lo haces al brindarnos tu conocimiento.",
+        "message2":"Te deseo una feliz navidad a ti y a tu familia con un excelente año nuevo.",
+        "from": "Kaliros",
+        "text":"Eres acredora a un six pack de agua con gas en la cafetería de tropical efectivo desde el lunes 13 de diciembre 2021"
     },
     {
         "name": "Javier De Gracia Dominguez",
         "user":"javy70",
-        "message":"Este es un regalo",
-        "from": "The Grinch",
-        "configuration":[]
+        "message":"Se que eres fanático de la wonder woman no sabía que detalle te podría encantar, así que vi esto y me arriesgue espero que te guste",
+        "message2":"Feliz Navidad para ti y los tuyos.",
+        "from": "Kaliros",
+        "text":""
     },
     {
         "name": "Débora Ujueta",
         "user":"debbie.ujueta",
-        "message":"Este es un regalo",
-        "from": "The Grinch",
-        "configuration":[]
+        "message":"Ujueta!! Gracias por brindarme la oportunidad de conocerte un poco más confesar que no sabía que regalarte ya que regalarte un mug sería algo monótono, por casualidad vi esto y me pareció adecuado ya que me recuerda a ti (Sí es imitación)",
+        "message2":"Un abrazo y espero que tengas una feliz navidad para ti y los tuyos.",
+        "from": "Kaliros",
+        "text":"Eres acredora a una cena no romántica totalmente gratis en cualquier restaurante de panamá que tu elijas, valida desde el 06-Enero-2022, coordinar por whatsapp"
     },
     {
         "name": "Joaquin Granero",
         "user":"joaquin_granero",
         "message":"Este es un regalo",
         "from": "The Grinch",
-        "configuration":[]
+         "text":"Tienes un six pack de agua con gas en la cafetería de tropical efectiva desde el lunes 13 de diciembre 2021"
     },
     {
         "name": "Pedro Quintana Bossa",
         "user":"quintanitabossa",
         "message":"Este es un regalo",
         "from": "The Grinch",
-        "configuration":[]
+         "text":"Tienes un six pack de agua con gas en la cafetería de tropical efectiva desde el lunes 13 de diciembre 2021"
     },
     {
         "name": "Joaquin Granero",
         "user":"joaquin_granero",
         "message":"Este es un regalo",
         "from": "The Grinch",
-        "configuration":[]
+         "text":"Tienes un six pack de agua con gas en la cafetería de tropical efectiva desde el lunes 13 de diciembre 2021"
     },
     {
         "name": "Javier Stmary",
         "user":"jeyjeyst",
         "message":"Este es un regalo",
         "from": "The Grinch",
-        "configuration":[]
+         "text":"Tienes un six pack de agua con gas en la cafetería de tropical efectiva desde el lunes 13 de diciembre 2021"
     },
     {
         "name": "Joshua Montemayor Aizpurua",
         "user":"joshuarielm",
         "message":"Este es un regalo",
         "from": "The Grinch",
-        "configuration":[]
+         "text":"Tienes un six pack de agua con gas en la cafetería de tropical efectiva desde el lunes 13 de diciembre 2021"
     }
 ]
